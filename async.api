@@ -1,0 +1,6 @@
+
+FUNCTION Test
+(
+	 uint8  pId		IN
+	,uint32 pData	OUT
+);
